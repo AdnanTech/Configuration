@@ -1,2 +1,1 @@
-# Configuration
- 
+# Currently using George Hotz' configurations
