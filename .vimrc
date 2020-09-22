@@ -5,6 +5,10 @@ set expandtab
 set ai
 set number
 set hlsearch
+set paste
 set ruler
 highlight Comment ctermfg=green
 
+set nobackup
+set nowritebackup
+set noswapfile
