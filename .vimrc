@@ -18,3 +18,6 @@ set noswapfile
 set nocompatible
 filetype plugin on
 syntax on
+
+" colorscheme
+colorscheme koehler
