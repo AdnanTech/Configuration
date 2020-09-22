@@ -1,4 +1,4 @@
-syntax on
+" general
 set tabstop=2
 set shiftwidth=2
 set expandtab
@@ -9,6 +9,12 @@ set paste
 set ruler
 highlight Comment ctermfg=green
 
+" for no backup files
 set nobackup
 set nowritebackup
 set noswapfile
+
+" for vimwiki
+nocompatible
+filetype plugin on
+syntax on
