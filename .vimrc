@@ -15,6 +15,6 @@ set nowritebackup
 set noswapfile
 
 " for vimwiki
-nocompatible
+set nocompatible
 filetype plugin on
 syntax on
