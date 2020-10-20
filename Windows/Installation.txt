@@ -1,0 +1,8 @@
+---General
+Activate Windows Key
+Connect to wifi
+
+---Settings
+Night Light on
+Dark Theme
+Mint Light accent

@@ -1,3 +1,11 @@
 --- Development
 Dev C++
 Microsoft Visual Studio
+Microsoft Visual Studio Code
+
+--- Utility
+PowerToys
+HWinfo
+
+--- General
+Firefox Developer Edition

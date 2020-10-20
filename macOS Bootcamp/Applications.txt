@@ -1,0 +1,4 @@
+MacOSFanControl (https://crystalidea.com/macs-fan-control/download)
+Power Plan Assistant (http://powerplan.forbootcamp.org/)
+Trackpad++ (http://trackpad.forbootcamp.org/)
+GIMP (https://www.gimp.org/)
