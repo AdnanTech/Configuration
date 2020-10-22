@@ -1,0 +1,13 @@
+--- Development
+Visual Studio 2019
+SQL Server Management 18
+
+--- Productivity
+Atlassian
+	Jira
+	Trello
+
+
+--- Communications
+Skype
+Whatsapp
