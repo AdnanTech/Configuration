@@ -1,0 +1,4 @@
+--- Freelance Web Dev
+Local by flywheel (Local development environment)
+XAMPP (Local development environment)
+Siteground (Hosting)

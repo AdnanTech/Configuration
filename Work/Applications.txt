@@ -1,0 +1,4 @@
+SQL Server Management Studio
+Visual Studio 2019 (C# installed)
+Skype
+
